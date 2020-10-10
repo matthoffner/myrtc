@@ -1,10 +1,6 @@
 # myrtc
 
-Simple locally hosted video chat with ngrok.
-
-```sh
-npm install
-```
+Simple locally hosted video/screen share/text chat with ngrok.
 
 ```sh
 npm run prepare-client
